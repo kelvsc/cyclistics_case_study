@@ -1,3 +1,5 @@
+-- Merge individual monthly tables into an annual table
+
 SELECT * FROM cs-bike-share-analysis.Trip_Data.2022_10_data
 UNION ALL
 SELECT * FROM cs-bike-share-analysis.Trip_Data.2022_11_data
