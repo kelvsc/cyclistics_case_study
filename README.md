@@ -34,5 +34,31 @@ Historical bike-share data has been provided by Cyclistic under a [data license 
 For the purposes of this case study, we will be using data from September 2022 to October 2023. Each table (a total of 12) was downloaded to a local machine and then subsequently uploaded into Google BigQuery.
 
 However, because we need to do an analysis on data spanning one full year, we merge all 12 tables into one table.
+```
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2022_11_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2022_12_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_01_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_02_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_03_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_04_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_05_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_06_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_07_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_08_data
+UNION ALL
+SELECT * FROM cs-bike-share-analysis.Trip_Data.2023_09_data
+```
+
+We see that all data is already structured into 5,674,399 rows and 13 columns.
 
 
