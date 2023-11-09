@@ -583,9 +583,9 @@ Members and casual riders have different top 10 routes. For members, the popular
 
 Google Looker Studio was used as the data visualization tool as the file size of the combined dataset was over 1GB, which exceeded the upload limit in other free data visualization tools like Tableau Public.
 
-The report can be accessed [here](https://lookerstudio.google.com/embed/u/0/reporting/b51dbc59-4421-4823-96d5-45a602894669/page/p_e0wm1kuibd). Note: you will need to log into your Google account to view.
+The Looker Studio report can be accessed [here](https://lookerstudio.google.com/s/nbQA7OpfDiI). Note: you will need to log into your Google account to view.
 
-If you do not have a Google, you can download the non-interactive data visualization report [here](.
+If you do not have a Google, you can download the non-interactive data visualization report [here](https://github.com/kelvsc/data-analysis/files/13310966/Cyclistic_Report_Kelvin_Chen.pdf).
 
 <br>
 
