@@ -8,6 +8,18 @@ Tools used in this case study include Google BigQuery for data analysis with SQL
 
 <br>
 
+## Quick Links
+
+* [Background & Business Task](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study#background--business-task)
+* [Data Preparation](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study#data-preparation)
+* [Data Processsing](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study#data-processing)
+* [Data Analysis](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study#data-analysis)
+* [Data Visualization](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study#data-visualization)
+* [Summary](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study#summary-of-differences-between-customer-type)
+* [Recommendations](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study#recommendations)
+
+<br>
+
 ## Background & Business Task
 
 Cyclistic is a bike-share company in Chicago. The company believes its future success depends on maximizing the number of annual memberships. Therefore, they want to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the company will
@@ -571,7 +583,9 @@ Members and casual riders have different top 10 routes. For members, the popular
 
 Google Looker Studio was used as the data visualization tool as the file size of the combined dataset was over 1GB, which exceeded the upload limit in other free data visualization tools like Tableau Public.
 
-The report can be accessed [here](https://lookerstudio.google.com/embed/u/0/reporting/b51dbc59-4421-4823-96d5-45a602894669/page/p_e0wm1kuibd).
+The report can be accessed [here](https://lookerstudio.google.com/embed/u/0/reporting/b51dbc59-4421-4823-96d5-45a602894669/page/p_e0wm1kuibd). Note: you will need to log into your Google account to view.
+
+If you do not have a Google, you can download the non-interactive data visualization report [here](.
 
 <br>
 
