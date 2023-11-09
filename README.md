@@ -585,7 +585,7 @@ Google Looker Studio was used as the data visualization tool as the file size of
 
 The Looker Studio report can be accessed [here](https://lookerstudio.google.com/s/nbQA7OpfDiI). Note: you will need to log into your Google account to view.
 
-If you do not have a Google, you can download the non-interactive data visualization report [here](https://github.com/kelvsc/data-analysis/files/13310966/Cyclistic_Report_Kelvin_Chen.pdf).
+If you do not have a Google account, you can download the non-interactive data visualization report [here](https://github.com/kelvsc/data-analysis/files/13310966/Cyclistic_Report_Kelvin_Chen.pdf).
 
 <br>
 
