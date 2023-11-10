@@ -12,6 +12,6 @@ To go back to my website, please click [here](https://kelvinchen.me).
 
 # Data Analysis Case Studies
 
-* Cyclistics Case Study
-    * An analysis into historical bike-trip data to identify trends and insights to inform a marketing campaign
+* [Cyclistics Case Study](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study)
+    * An analysis into historical bike-share data to identify trends and insights to inform a marketing campaign
     * Tools used include: Google BigQuery, Google Looker Studio
