@@ -1,9 +1,17 @@
-# Data Analysis Case Studies
+# Introduction
 
 Hello. My name is Kelvin.
 
 This GitHub repository contains sample case studies as part of my data analysis portfolio.
 
-These case studies consist of working with publicly available datasets. I go over how the data is prepared, processed, analyzed, and visualized in a final report. Finally, recommendations are provided. Within each case study, I provide all the queries I used in the varying phases.
+These case studies consist of working with publicly available datasets. I go over how the data is prepared, processed, analyzed, and visualized in a final report. Finally, recommendations are provided. Within each case study, I provide all the queries I used in the varying phases as separate code files.
 
-To go to my website, please click [here](https://kelvinchen.me). 
+To go back to my website, please click [here](https://kelvinchen.me). 
+
+<br>
+
+# Data Analysis Case Studies
+
+* Cyclistics Case Study
+    * An analysis into historical bike-trip data to identify trends and insights to inform a marketing campaign
+    * Tools used include: Google BigQuery, Google Looker Studio
