@@ -6,7 +6,7 @@ This GitHub repository contains sample case studies as part of my data analytics
 
 These case studies consist of working with publicly available datasets. I go over how the data is prepared, processed, analyzed, and visualized in a final report. Recommendations, queries, and tools used in the analysis are also provided. 
 
-To go back to my website, please click [here](https://kelvinchen.me). 
+To go back to my marketing portfolio, please click [here](https://kelvinchen.me). 
 
 <br>
 
