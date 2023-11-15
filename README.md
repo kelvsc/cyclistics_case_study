@@ -612,3 +612,19 @@ Based on our data analysis, the top 3 recommendations for Cyclistic's marketing 
 2. Location-based Targeting - Casual riders are highly concentrated in downtown, entertainment venues, and attractions. Beyond owned media channels (website, social, email), Cyclistic should consider running out-of-home advertising in areas where casual riders are already located. Popular routes for casual riders could be used to prioritize locations.
 
 3. Membership Perks - Highlight what it means to be a member. Offer more perks for annual memberships and promote all the benefits of why annual members decide to bikeshare for commute, errands, and groceries. Consider partnering with health-minded organizations like gyms, sport centers, dance studios, and more, to offer a discounted annual membership.
+
+
+The data we worked with tells us the "what" and illustrates past behaviour of customers, however, I would recommend conducting a survey to better understand the "why" behind their behaviour. 
+
+We can ask questions such as:
+
+* Why do members decide to sign up?
+* What activities do they use bike share for?
+* Do they own a car?
+* How do they choose between taking bike-share or other modes of transport?
+* How many casual riders are locals vs tourists?
+* What is their age?
+* Do they have a family?
+* Why haven’t casual riders switched to annual memberships?
+
+We can then connect this qualitative data with existing quantitative data for even better insights that can go on to inform a more effective marketing strategy and campaign.
