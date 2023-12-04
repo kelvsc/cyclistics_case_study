@@ -14,4 +14,7 @@ To go back to my marketing portfolio, please click [here](https://kelvinchen.me)
 
 * [Cyclistics Case Study](https://github.com/kelvsc/data-analysis/tree/cyclistics-case-study)
     * An analysis into historical bike-share data to identify trends and insights to inform a marketing campaign
-    * Tools used: Google BigQuery, Google Looker Studio
+    * Tools used: Google BigQuery for data analysis, Google Looker Studio for data visualization
+* [Bellabeat Case Study](https://www.kaggle.com/code/kelvsc/bellabeat-data-analytics-case-study)
+    * An analysis into historical fitness wearable data to identify trends and insights to inform marketing and product strategies.
+    * Tools used: R for data analysis and visualization
